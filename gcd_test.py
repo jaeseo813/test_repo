@@ -1,5 +1,5 @@
 ## 박규탁, 202300328, 컴퓨터공학부
-
+## pull requests, by gyutak Park
 def gcd_sub(a, b):
     while(a != 0 and b != 0):
         if a>b:
